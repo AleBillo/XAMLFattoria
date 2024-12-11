@@ -1,0 +1,15 @@
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\bin\Debug\FATTORIA_DOMINICI.exe.config
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\bin\Debug\FATTORIA_DOMINICI.exe
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\bin\Debug\FATTORIA_DOMINICI.pdb
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\obj\Debug\FATTORIA_DOMINICI.csproj.AssemblyReference.cache
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\obj\Debug\MainWindow.g.cs
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\obj\Debug\App.g.cs
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\obj\Debug\FATTORIA_DOMINICI_MarkupCompile.cache
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\obj\Debug\FATTORIA_DOMINICI_MarkupCompile.lref
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\obj\Debug\MainWindow.baml
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\obj\Debug\FATTORIA_DOMINICI.g.resources
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\obj\Debug\FATTORIA_DOMINICI.Properties.Resources.resources
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\obj\Debug\FATTORIA_DOMINICI.csproj.GenerateResource.cache
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\obj\Debug\FATTORIA_DOMINICI.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\obj\Debug\FATTORIA_DOMINICI.exe
+C:\Users\alessandro.dominici\source\repos\FATTORIA_DOMINICI\FATTORIA_DOMINICI\obj\Debug\FATTORIA_DOMINICI.pdb
